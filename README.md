@@ -1,5 +1,5 @@
 # Conquest-web
-Layout (only desctop)
+Layout (only desktop)
 # Описание
 Верстка главной страницы интернет-магазина часов "Conquest" по макету Figma при помощи HTML и SCSS
 # Функционал
